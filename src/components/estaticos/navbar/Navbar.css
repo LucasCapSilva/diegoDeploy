@@ -1,0 +1,16 @@
+.cursor{
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.corbarra{
+    background-color: black;
+}
+
+
+
